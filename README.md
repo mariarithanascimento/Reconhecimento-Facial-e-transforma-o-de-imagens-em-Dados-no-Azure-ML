@@ -1,9 +1,6 @@
 # Reconhecimento Facial e transformação de imagens em Dados no Azure ML
 
-<aside>
-❗ Atenção!! Esse passo a passo é somente uma forma alternativa de realizar o procedimento. Sempre dê preferência a [Documentação Oficial - Reconhecimento facial](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/04-face.html) e [Documentação oficial - Analise de documentos](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/05-ocr.html)
-
-</aside>
+> ❗ Atenção!! Esse passo a passo é somente uma forma alternativa de realizar o procedimento. Sempre dê preferência a [Documentação Oficial - Reconhecimento facial](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/04-face.html), [Documentação oficial - Analise de documentos](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/05-ocr.html) e [Documentação oficial - Analise imagens](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/03-image-analysis.html)
 
 ### Criação de recurso e Vision Studio
 
